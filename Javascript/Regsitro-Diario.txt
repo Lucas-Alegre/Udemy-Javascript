@@ -2,4 +2,4 @@ Sección 1.
 introducción: Los script en un html normalmente no van en el head, sino que se incluyen en la parte inderior de la etiqueta Body. Y algunos script de librerías etc, se agregan en el meta.
 
 
-Progreso: Sección 2.6 Pruebo Nuevo archivo texto
+Progreso: Sección 2.6 Comenzar a realizar el mismo
