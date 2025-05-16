@@ -7,6 +7,10 @@ Declaración de variables y su inicialización, nomenclatura de variables "Upper
 Sección 3.
 Operadores lógicos, ternarios etc
 
+Sección 4.
+Loops: Para arrays se suele usar for of. y para objetos se usa for in
+for, for Of, for In, While, do While, if, else, switch
+
 
 
 Progreso: Sección 4.27 Comenzar a realizar el mismo
